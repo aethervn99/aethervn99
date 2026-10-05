@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aethervn99">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/aethervn99/">LeetCode</a>
+  <a href="https://github.com/aethervn99">GitHub</a>
 </p>
 
 ## About me
@@ -48,7 +47,7 @@ My default is to understand the problem, choose a simple design, make failures e
 
 | Work | My contribution | Scope |
 | --- | --- | --- |
-| Æther personal website & Studio | React/Next.js interfaces, responsive and accessible navigation, content management and LeetCode learning tools; Cloudflare Workers and D1, with Workflows for Notion synchronization | Personal web project |
+| Æther personal website & Studio | React/Next.js interfaces, responsive and accessible navigation, content management and private learning tools; Cloudflare Workers and D1, with Workflows for Notion synchronization | Personal web project |
 | Enterprise OMS & picking workflows | Backend APIs, system integration, CI/CD and monitoring with NestJS and AWS | Development & integration at SmartOSC |
 | Real-estate AI application | Data processing, model experiments, agents and AWS deployment | Proof of concept at BASAO |
 | Service knowledge for RAG | Organized JSONL knowledge and separated service information from pricing | Knowledge preparation for Nàng Sen Spa |
@@ -100,7 +99,6 @@ Other tools I've used include C#, Express.js, SQL Server, MongoDB and Web3.js.
 ## Learning in public
 
 - **[Hybrid AI in Flutter workshop](https://github.com/aethervn99/workshop-flutter-gemma-hybrid-ai)** — my fork of [DenisovAV's workshop](https://github.com/DenisovAV/workshop-flutter-gemma-hybrid-ai), kept as a learning reference for cloud/on-device AI, Gemma and RAG.
-- **[Algorithm practice on LeetCode](https://leetcode.com/u/aethervn99/)** — building a habit around problem-solving patterns, explaining complexity and revisiting earlier problems.
 
 ## Let's connect
 
