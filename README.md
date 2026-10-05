@@ -20,6 +20,8 @@ My foundation is in **.NET and Node.js backend development**: APIs, authenticati
 
 Alongside backend development, I build **web interfaces and connect them to application APIs**. My frontend work spans HTML/CSS, JavaScript, Bootstrap and EJS; my current personal website uses React, Next.js and TypeScript.
 
+My cloud experience includes **AWS, Google Cloud (GCP) and Microsoft Azure**.
+
 - 🧩 At **SmartOSC**, I developed APIs and system integrations for an order management system and picking tool, and contributed to CI/CD and monitoring on AWS.
 - 🤖 At **BASAO**, I worked on a real-estate AI proof of concept, contributing to data processing, model training, agent development and deployment on AWS.
 - 🧭 At **Lifetek**, I held **Backend Team Lead and Scrum Master** responsibilities, including code reviews, mentoring, requirements analysis and technical estimation.
@@ -83,9 +85,11 @@ My default is to understand the problem, choose a simple design, make failures e
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Delivery & operations**
+**Cloud, delivery & operations**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white)
