@@ -20,7 +20,7 @@ My foundation is in **.NET and Node.js backend development**: APIs, authenticati
 
 Alongside backend development, I build **web interfaces and connect them to application APIs**. My frontend work spans HTML/CSS, JavaScript, Bootstrap and EJS; my current personal website uses React, Next.js and TypeScript.
 
-My cloud experience includes **AWS, Google Cloud (GCP) and Microsoft Azure**.
+My cloud experience includes **AWS, Google Cloud (GCP) and Microsoft Azure**. In my **Æther personal project**, I also work with **Cloudflare Workers, D1 and Workflows**, using **OpenNext and Wrangler** for Next.js integration and local development.
 
 - 🧩 At **SmartOSC**, I developed APIs and system integrations for an order management system and picking tool, and contributed to CI/CD and monitoring on AWS.
 - 🤖 At **BASAO**, I worked on a real-estate AI proof of concept, contributing to data processing, model training, agent development and deployment on AWS.
@@ -48,7 +48,7 @@ My default is to understand the problem, choose a simple design, make failures e
 
 | Work | My contribution | Scope |
 | --- | --- | --- |
-| Æther personal website & Studio | React/Next.js interfaces, responsive and accessible navigation, content management and LeetCode learning tools connected to APIs | Personal web project |
+| Æther personal website & Studio | React/Next.js interfaces, responsive and accessible navigation, content management and LeetCode learning tools; Cloudflare Workers and D1, with Workflows for Notion synchronization | Personal web project |
 | Enterprise OMS & picking workflows | Backend APIs, system integration, CI/CD and monitoring with NestJS and AWS | Development & integration at SmartOSC |
 | Real-estate AI application | Data processing, model experiments, agents and AWS deployment | Proof of concept at BASAO |
 | Service knowledge for RAG | Organized JSONL knowledge and separated service information from pricing | Knowledge preparation for Nàng Sen Spa |
@@ -90,6 +90,7 @@ My default is to understand the problem, choose a simple design, make failures e
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white)
