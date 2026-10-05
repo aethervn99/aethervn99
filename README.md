@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Thành Nguyễn — AI and Backend Engineer. From business workflows to reliable AI systems." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Thành Nguyễn — AI Engineer, Frontend and Backend. From user interfaces to reliable AI systems." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Thành Nguyễn 👋</h1>
 
 <p align="center">
-  <strong>AI &amp; Backend Engineer · RAG · System Design</strong><br />
-  I connect business workflows, data and AI through software that is clear to understand and practical to operate.
+  <strong>AI Engineer · Frontend &amp; Backend · RAG · System Design</strong><br />
+  I connect user interfaces, business workflows, data and AI through software that is clear to understand and practical to operate.
 </p>
 
 <p align="center">
@@ -18,13 +18,23 @@
 
 My foundation is in **.NET and Node.js backend development**: APIs, authentication, enterprise integrations and order-management workflows. My work has since expanded into **machine learning, LLM applications and RAG**.
 
+Alongside backend development, I build **web interfaces and connect them to application APIs**. My frontend work spans HTML/CSS, JavaScript, Bootstrap and EJS; my current personal website uses React, Next.js and TypeScript.
+
 - 🧩 At **SmartOSC**, I developed APIs and system integrations for an order management system and picking tool, and contributed to CI/CD and monitoring on AWS.
 - 🤖 At **BASAO**, I worked on a real-estate AI proof of concept, contributing to data processing, model training, agent development and deployment on AWS.
 - 🧭 At **Lifetek**, I held **Backend Team Lead and Scrum Master** responsibilities, including code reviews, mentoring, requirements analysis and technical estimation.
 - 📚 I studied **Software Engineering at FPT University**. I continue to study system design, algorithms and AI evaluation through structured reading and hands-on practice.
 
+## Frontend experience
+
+- **Web application interfaces:** forms, authentication screens, content pages and business workflows using HTML, CSS, JavaScript, Bootstrap and EJS, integrated with .NET/Node.js services.
+- **React, Next.js & TypeScript:** my current personal website combines server-rendered content, reusable components, responsive layouts, keyboard navigation and a private Studio for managing content and learning progress.
+- **Vue.js:** experience reviewing frontend work and estimating implementation scope.
+- **Frontend–backend integration:** connecting UI state with APIs, validation, search and pagination, including loading, empty and error states.
+
 ## What I'm focusing on
 
+- **Frontend and UX:** clear component boundaries, accessible interactions and recovery when network requests fail.
 - **RAG and knowledge modeling:** structured knowledge, retrieval quality and clear ownership of changing business data.
 - **AI application architecture:** multi-tenant boundaries, guardrails, human handoff and evaluation criteria.
 - **Backend reliability:** transactions, idempotency, queues, caching and recovery when a dependency fails.
@@ -36,6 +46,7 @@ My default is to understand the problem, choose a simple design, make failures e
 
 | Work | My contribution | Scope |
 | --- | --- | --- |
+| Æther personal website & Studio | React/Next.js interfaces, responsive and accessible navigation, content management and LeetCode learning tools connected to APIs | Personal web project |
 | Enterprise OMS & picking workflows | Backend APIs, system integration, CI/CD and monitoring with NestJS and AWS | Development & integration at SmartOSC |
 | Real-estate AI application | Data processing, model experiments, agents and AWS deployment | Proof of concept at BASAO |
 | Service knowledge for RAG | Organized JSONL knowledge and separated service information from pricing | Knowledge preparation for Nàng Sen Spa |
@@ -43,9 +54,20 @@ My default is to understand the problem, choose a simple design, make failures e
 
 ## Languages & tools
 
+**Frontend & UI**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+
 **Backend & data**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -68,7 +90,7 @@ My default is to understand the problem, choose a simple design, make failures e
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-Other tools I've used include C#, Express.js, SQL Server, MongoDB, HTML/CSS, Bootstrap and Web3.js.
+Other tools I've used include C#, Express.js, SQL Server, MongoDB and Web3.js.
 
 ## Learning in public
 
