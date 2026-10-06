@@ -13,31 +13,39 @@
   <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-154021241/">LinkedIn</a>
 </p>
 
-I build AI products with a full-stack foundation and backend team leadership experience. My work spans enterprise systems, AI customer engagement and family device management. I'm currently developing **AI Observe** to help engineering teams monitor and diagnose AI execution.
+I turn business workflows into AI applications, connecting the interface people use with the data, backend services and integrations behind it.
 
-My background includes enterprise integrations at **SmartOSC**, AI prototyping at **BASAO**, and **Backend Team Lead / Scrum Master** responsibilities at **Lifetek**.
+My path into AI grew out of enterprise software: order processing, approval workflows, system integrations and backend team leadership. That background shapes how I build assistants today—ground their answers in business data, validate their actions and make failures traceable.
 
-## Selected work
+I'm currently building **AI Observe**, bringing my application experience into tools that help engineers understand what their AI systems are doing.
+
+**Explore:** [Featured projects](#featured-projects) · [Project highlights](#more-project-highlights) · [Experience](#experience) · [Certifications](#certifications)
+
+## Featured projects
 
 ### AI Customer Engagement Platform
 
-One core platform applied to two anonymized business contexts: **retail and services**. It connects consultation, retrieval, appointments, CRM and customer follow-up.
+**From a customer question to a validated next step.** A shared architecture for AI consultation and customer care, applied to **retail and services** with different business data and rules.
 
-- Built React/TypeScript interfaces and Express APIs, connecting Firestore, CRM and Web/Facebook channels.
-- Designed retrieval, conversation state and action validation before handing requests to business systems.
-- Owned product design, application development and integration; deployment was handled by a separate team.
+- Built the customer and staff interfaces, backend, Gemini/RAG workflows, conversation state and CRM integrations across Web/Facebook channels.
+- Connected product/service advice, prices, branches, appointments and follow-up; checked proposed actions before handing them to business systems.
+- **My scope:** end-to-end design, development and integration. Deployment was handled by a separate team.
+
+[Read the case study and architecture](./case-studies/ai-customer-engagement.md)
 
 ### AI Observe
 
-An observability platform for tracing AI execution, investigating failures and connecting telemetry with business outcomes. **Current stage: local/staging.**
+**Follow an AI request from execution to outcome.** A platform for investigating model, retrieval and tool behavior, with a console that connects telemetry to incidents and business outcomes.
 
-- Developed Node.js/Python SDKs and an OpenTelemetry pipeline spanning ingestion, event processing, traces and dashboards.
-- Built the Control API/worker, PostgreSQL tenant boundaries and a Next.js console.
-- Own the complete platform, including integrations and local/staging infrastructure.
+- Built Node.js/Python SDKs, the OpenTelemetry ingestion/export pipeline, a Control API/worker and a Next.js console.
+- Implemented tenant boundaries in PostgreSQL and separated diagnostic traces from business outcome tracking.
+- **My scope:** the complete platform, including integrations and infrastructure. **Current stage: local/staging.**
+
+[Read the case study and architecture](./case-studies/ai-observe.md)
 
 ## More project highlights
 
-Client project names are anonymized; the descriptions reflect my actual contribution.
+Client names are anonymized throughout this profile. These highlights describe my contribution within each project.
 
 - **Family device management:** built a Vue.js dashboard and Node.js APIs for activity timelines, usage limits and alerts. Implemented JWT/RBAC and encryption; deployed to AWS with Docker, backups and monitoring.
 - **Retail OMS & Picking Tool:** developed NestJS services using MongoDB, Redis and RabbitMQ. Contributed to delivery integrations, SonarQube checks, AWS CI/CD and ELK/CloudWatch monitoring.
@@ -47,16 +55,21 @@ Client project names are anonymized; the descriptions reflect my actual contribu
 - **Backend & blockchain integration:** fixed and unit-tested NFT upgrades, maintained NFT generation and integrated Web3. Contributed to APIs and administration with AdonisJS, PostgreSQL and Redis.
 - **Olympic/ACM training support:** coordinated Scrum, requirements analysis and risks in a five-person academic project; studied databases/data warehousing and guided teammates on diagrams and documentation.
 
-## Core technologies
+## Experience
 
-| Area | Tools and technologies |
+- **SmartOSC:** enterprise backend and delivery-system integrations, including retail OMS and picking workflows.
+- **BASAO:** AI prototyping, data preparation, prediction APIs and agent/RAG development.
+- **Lifetek:** Backend Team Lead / Scrum Master responsibilities across business applications and delivery coordination.
+
+## Technologies in practice
+
+| Work | Technologies used |
 | --- | --- |
-| AI & data science | Python, Gemini, RAG, LangChain, FastAPI, pandas, scikit-learn |
-| Frontend | React, Next.js, Vue.js, TypeScript, Tailwind CSS |
-| Backend | Node.js, NestJS, Express.js, C# / .NET |
-| Data & messaging | PostgreSQL, MongoDB, Firestore, Redis, RabbitMQ |
-| Cloud & delivery | AWS, GCP, Docker, Terraform, CI/CD |
-| Observability | OpenTelemetry, OpenObserve, ELK, CloudWatch |
+| AI customer engagement | React, TypeScript, Node.js, Express, Gemini, RAG, Firestore, Pancake CRM |
+| AI Observe | Node.js, Python, OpenTelemetry, NestJS/Fastify, PostgreSQL, Next.js, OpenObserve |
+| Enterprise backends | NestJS, C# / .NET, MongoDB, Redis, RabbitMQ, AWS, CI/CD |
+| Family device management | Vue.js, Node.js, JWT/RBAC, AWS, Docker |
+| Real-estate AI POC | Python, pandas, scikit-learn, FastAPI, LangChain |
 
 ## Certifications
 
@@ -67,12 +80,12 @@ Client project names are anonymized; the descriptions reflect my actual contribu
 
 **Software Engineering, FPT University** — Information Systems specialization.
 
-I continue to study system design, algorithms and AI evaluation through reading and hands-on work.
+My current learning interests include system design, AI evaluation and the boundary between a model's response and a completed business action.
 
 - **[Hybrid AI in Flutter workshop](https://github.com/aethervn99/workshop-flutter-gemma-hybrid-ai)** — my fork of [DenisovAV's workshop](https://github.com/DenisovAV/workshop-flutter-gemma-hybrid-ai), kept as a learning reference for cloud/on-device AI, Gemma and RAG.
 
 ## Let's connect
 
-For AI Product Engineering opportunities and collaboration on full-stack AI applications, integrations or observability:
+Let's talk about AI Product Engineering opportunities, full-stack AI applications, business integrations or observability.
 
 **[aethervn99@gmail.com](mailto:aethervn99@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-154021241/)**

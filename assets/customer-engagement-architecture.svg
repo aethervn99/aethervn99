@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 690" role="img" aria-labelledby="title desc">
+<title id="title">AI CUSTOMER ENGAGEMENT PLATFORM</title>
+<desc id="desc">Shared core · Retail and services. Web + Facebook: Customer conversation · Staff workspace. Express + session: Request validation · Quota · Queue. Router → context → synthesis: Gemini · RAG · Business data. Guardrails + action contract: Response checks · Proposed actions. Retail + Services: Data · Rules · Integration adapters. Appointments + Follow-up: CRM handoff · Validated business actions</desc>
+<rect width="960" height="690" rx="18" fill="#0b1019"/>
+<g font-family="system-ui, sans-serif">
+<text x="40" y="52" fill="#dec09a" font-size="15" letter-spacing="2">AI CUSTOMER ENGAGEMENT PLATFORM</text>
+<text x="40" y="85" fill="#acb9c9" font-size="17">Shared core · Retail and services</text>
+<rect x="40" y="120" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="151" fill="#dec09a" font-size="12" letter-spacing="1">01 / CHANNELS</text>
+<text x="62" y="191" fill="#f2eee7" font-size="21">Web + Facebook</text>
+<text x="62" y="228" fill="#b7c4d7" font-size="14">Customer conversation · Staff workspace</text>
+<rect x="490" y="120" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="151" fill="#dec09a" font-size="12" letter-spacing="1">02 / APPLICATION</text>
+<text x="512" y="191" fill="#f2eee7" font-size="21">Express + session</text>
+<text x="512" y="228" fill="#b7c4d7" font-size="14">Request validation · Quota · Queue</text>
+<rect x="40" y="300" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="331" fill="#dec09a" font-size="12" letter-spacing="1">03 / AI WORKFLOW</text>
+<text x="62" y="371" fill="#f2eee7" font-size="21">Router → context → synthesis</text>
+<text x="62" y="408" fill="#b7c4d7" font-size="14">Gemini · RAG · Business data</text>
+<rect x="490" y="300" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="331" fill="#dec09a" font-size="12" letter-spacing="1">04 / VALIDATION</text>
+<text x="512" y="371" fill="#f2eee7" font-size="21">Guardrails + action contract</text>
+<text x="512" y="408" fill="#b7c4d7" font-size="14">Response checks · Proposed actions</text>
+<rect x="40" y="480" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="511" fill="#dec09a" font-size="12" letter-spacing="1">05 / BUSINESS CONTEXT</text>
+<text x="62" y="551" fill="#f2eee7" font-size="21">Retail + Services</text>
+<text x="62" y="588" fill="#b7c4d7" font-size="14">Data · Rules · Integration adapters</text>
+<rect x="490" y="480" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="511" fill="#dec09a" font-size="12" letter-spacing="1">06 / CUSTOMER JOURNEY</text>
+<text x="512" y="551" fill="#f2eee7" font-size="21">Appointments + Follow-up</text>
+<text x="512" y="588" fill="#b7c4d7" font-size="14">CRM handoff · Validated business actions</text>
+<text x="40" y="669" fill="#a0acbc" font-size="12">Thành Nguyễn · AI Product Engineer · Functional view, not production deployment topology</text>
+</g></svg>

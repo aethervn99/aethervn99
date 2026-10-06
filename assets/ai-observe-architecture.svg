@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 690" role="img" aria-labelledby="title desc">
+<title id="title">AI OBSERVE / OBSERVABILITY PLATFORM</title>
+<desc id="desc">Implemented scope · Local / staging. Node.js + Python SDKs: Agent · LLM · Retrieval · Tool · Guardrail. Telemetry gateway: Trusted tenant · Validation · Redaction. Durable event lanes: Diagnostic data + critical facts. Exporter → OpenObserve: Independent delivery · Retry. Worker → PostgreSQL: Deduplication · Incidents · Outcomes. Control API → Next.js: Tenant-scoped console · Evidence</desc>
+<rect width="960" height="690" rx="18" fill="#0b1019"/>
+<g font-family="system-ui, sans-serif">
+<text x="40" y="52" fill="#dec09a" font-size="15" letter-spacing="2">AI OBSERVE / OBSERVABILITY PLATFORM</text>
+<text x="40" y="85" fill="#acb9c9" font-size="17">Implemented scope · Local / staging</text>
+<rect x="40" y="120" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="151" fill="#dec09a" font-size="12" letter-spacing="1">01 / INSTRUMENT</text>
+<text x="62" y="191" fill="#f2eee7" font-size="21">Node.js + Python SDKs</text>
+<text x="62" y="228" fill="#b7c4d7" font-size="14">Agent · LLM · Retrieval · Tool · Guardrail</text>
+<rect x="490" y="120" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="151" fill="#dec09a" font-size="12" letter-spacing="1">02 / INGEST</text>
+<text x="512" y="191" fill="#f2eee7" font-size="21">Telemetry gateway</text>
+<text x="512" y="228" fill="#b7c4d7" font-size="14">Trusted tenant · Validation · Redaction</text>
+<rect x="40" y="300" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="331" fill="#dec09a" font-size="12" letter-spacing="1">03 / TRANSPORT</text>
+<text x="62" y="371" fill="#f2eee7" font-size="21">Durable event lanes</text>
+<text x="62" y="408" fill="#b7c4d7" font-size="14">Diagnostic data + critical facts</text>
+<rect x="490" y="300" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="331" fill="#dec09a" font-size="12" letter-spacing="1">04 / DIAGNOSTICS</text>
+<text x="512" y="371" fill="#f2eee7" font-size="21">Exporter → OpenObserve</text>
+<text x="512" y="408" fill="#b7c4d7" font-size="14">Independent delivery · Retry</text>
+<rect x="40" y="480" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="62" y="511" fill="#dec09a" font-size="12" letter-spacing="1">05 / READ MODELS</text>
+<text x="62" y="551" fill="#f2eee7" font-size="21">Worker → PostgreSQL</text>
+<text x="62" y="588" fill="#b7c4d7" font-size="14">Deduplication · Incidents · Outcomes</text>
+<rect x="490" y="480" width="430" height="148" rx="10" fill="#121c2a" stroke="#394350"/>
+<text x="512" y="511" fill="#dec09a" font-size="12" letter-spacing="1">06 / EXPERIENCE</text>
+<text x="512" y="551" fill="#f2eee7" font-size="21">Control API → Next.js</text>
+<text x="512" y="588" fill="#b7c4d7" font-size="14">Tenant-scoped console · Evidence</text>
+<text x="40" y="669" fill="#a0acbc" font-size="12">Thành Nguyễn · AI Product Engineer · Functional view, not production deployment topology</text>
+</g></svg>
