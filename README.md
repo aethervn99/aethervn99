@@ -2,26 +2,37 @@
   <img src="./assets/profile-banner.svg?v=20261006" alt="Thành Nguyễn — AI Product Engineer. Full-stack applications, AI systems and observability." width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Thành Nguyễn</h1>
+<h1 align="center">Hi, I'm Thành Nguyễn 👋</h1>
 
 <p align="center">
   <strong>AI Product Engineer · Full-stack Engineering · AI Observability</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:aethervn99@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-154021241/">LinkedIn</a>
+  <a href="mailto:aethervn99@gmail.com"><img src="https://img.shields.io/badge/Email-A52A22?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28" /></a>
+  <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-154021241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="28" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" height="28" />
+  <img src="https://img.shields.io/badge/Node.js-287A2B?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28" />
+  <img src="https://img.shields.io/badge/Gemini-5C43C1?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" height="28" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" alt="OpenTelemetry" height="28" />
 </p>
 
 I turn business workflows into AI applications, connecting the interface people use with the data, backend services and integrations behind it.
 
 My path into AI grew out of enterprise software: order processing, approval workflows, system integrations and backend team leadership. That background shapes how I build assistants today—ground their answers in business data, validate their actions and make failures traceable.
 
-I'm currently building **AI Observe**, bringing my application experience into tools that help engineers understand what their AI systems are doing.
+🔭 I'm currently building **AI Observe**, bringing my application experience into tools that help engineers understand what their AI systems are doing.
 
-**Explore:** [Featured projects](#featured-projects) · [Project highlights](#more-project-highlights) · [Experience](#experience) · [Certifications](#certifications)
+**Explore:** [Featured projects](#featured-projects) · [Project highlights](#more-project-highlights) · [Experience](#experience) · [Tech stack](#tech-stack) · [Certifications](#certifications)
 
-## Featured projects
+<a name="featured-projects"></a>
+
+## 🚀 Featured projects
 
 ### AI Customer Engagement Platform
 
@@ -43,7 +54,9 @@ I'm currently building **AI Observe**, bringing my application experience into t
 
 [Read the case study and architecture](./case-studies/ai-observe.md)
 
-## More project highlights
+<a name="more-project-highlights"></a>
+
+## ✨ More project highlights
 
 Client names are anonymized throughout this profile. These highlights describe my contribution within each project.
 
@@ -55,13 +68,40 @@ Client names are anonymized throughout this profile. These highlights describe m
 - **Backend & blockchain integration:** fixed and unit-tested NFT upgrades, maintained NFT generation and integrated Web3. Contributed to APIs and administration with AdonisJS, PostgreSQL and Redis.
 - **Olympic/ACM training support:** coordinated Scrum, requirements analysis and risks in a five-person academic project; studied databases/data warehousing and guided teammates on diagrams and documentation.
 
-## Experience
+<a name="experience"></a>
+
+## 💼 Experience
 
 - **SmartOSC:** enterprise backend and delivery-system integrations, including retail OMS and picking workflows.
 - **BASAO:** AI prototyping, data preparation, prediction APIs and agent/RAG development.
 - **Lifetek:** Backend Team Lead / Scrum Master responsibilities across business applications and delivery coordination.
 
-## Technologies in practice
+<a name="tech-stack"></a>
+
+## 🛠️ Tech stack
+
+**💻 Languages & frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-184D37?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**🤖 AI & data science**
+
+![Gemini](https://img.shields.io/badge/Gemini-5C43C1?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-A64B00?style=for-the-badge&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**⚙️ Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-287A2B?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-B91C42?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-007D6F?style=for-the-badge&logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**🗄️ Data & messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-B85600?style=for-the-badge&logo=firebase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-B84500?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**☁️ Cloud & observability**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2459AD?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1769AA?style=for-the-badge&logo=docker&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white) ![OpenObserve](https://img.shields.io/badge/OpenObserve-4F46E5?style=for-the-badge&logo=openobserve&logoColor=white)
+
+<details>
+<summary>Where I use these technologies</summary>
 
 | Work | Technologies used |
 | --- | --- |
@@ -71,12 +111,18 @@ Client names are anonymized throughout this profile. These highlights describe m
 | Family device management | Vue.js, Node.js, JWT/RBAC, AWS, Docker |
 | Real-estate AI POC | Python, pandas, scikit-learn, FastAPI, LangChain |
 
-## Certifications
+</details>
+
+<a name="certifications"></a>
+
+## 🎓 Certifications
 
 - **[Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/FGQL9OMQXV7I)** — Google via Coursera · July 20, 2026.
 - **[Build with AI 2025: Practical AI for Web Developers!](https://certify.gdghanoi.com/credentials/4a2ed565)** — Google Developer Group — GDG Hanoi · April 12, 2025, as printed on the certificate.
 
-## Education & learning
+<a name="education--learning"></a>
+
+## 🌱 Education & learning
 
 **Software Engineering, FPT University** — Information Systems specialization.
 
@@ -84,7 +130,9 @@ My current learning interests include system design, AI evaluation and the bound
 
 - **[Hybrid AI in Flutter workshop](https://github.com/aethervn99/workshop-flutter-gemma-hybrid-ai)** — my fork of [DenisovAV's workshop](https://github.com/DenisovAV/workshop-flutter-gemma-hybrid-ai), kept as a learning reference for cloud/on-device AI, Gemma and RAG.
 
-## Let's connect
+<a name="lets-connect"></a>
+
+## 🤝 Let's connect
 
 Let's talk about AI Product Engineering opportunities, full-stack AI applications, business integrations or observability.
 
