@@ -72,9 +72,12 @@ Client names are anonymized throughout this profile. These highlights describe m
 
 ## 💼 Experience
 
-- **SmartOSC:** enterprise backend and delivery-system integrations, including retail OMS and picking workflows.
-- **BASAO:** AI prototyping, data preparation, prediction APIs and agent/RAG development.
-- **Lifetek:** Backend Team Lead / Scrum Master responsibilities across business applications and delivery coordination.
+- **BASAO — AI Engineer** · Jul 2025–Dec 2025: AI prototyping, data preparation, prediction APIs and agent/RAG development.
+- **SmartOSC — Node.js Developer** · Oct 2023–May 2024: enterprise backend and delivery-system integrations, including retail OMS and picking workflows.
+- **Icetea Software — Backend & Blockchain Developer** · Jul 2023–Sep 2023: NFT upgrades and unit tests, NFT generation, Web3 integration, APIs and administration features.
+- **Lifetek — Backend Team Lead · Scrum Master** · Jul 2022–Apr 2023: backend leadership, Scrum coordination, code reviews and mentoring across business applications.
+- **Just Engineer — Node.js Intern · Application Development** · Mar 2022–Jun 2022: authentication, real-time notifications and check-in/check-out features.
+- **CITIGO — .NET Intern** · Aug 2020–Jan 2021: authentication, publishing, comments and search for an ASP.NET MVC blog platform.
 
 <a name="tech-stack"></a>
 
