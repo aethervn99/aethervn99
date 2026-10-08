@@ -120,6 +120,7 @@ Client names are anonymized throughout this profile. These highlights describe m
 
 ## 🎓 Certifications
 
+- **[Foundations of Business Intelligence](https://www.coursera.org/account/accomplishments/verify/YJJ03BPZJ1LY)** — Google via Coursera · October 8, 2026.
 - **[Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/FGQL9OMQXV7I)** — Google via Coursera · July 20, 2026.
 - **[Build with AI 2025: Practical AI for Web Developers!](https://certify.gdghanoi.com/credentials/4a2ed565)** — Google Developer Group — GDG Hanoi · April 12, 2025, as printed on the certificate.
 
