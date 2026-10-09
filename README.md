@@ -8,6 +8,15 @@
   <strong>AI Product Engineer · Full-stack Engineering · AI Observability</strong>
 </p>
 
+<!-- Profile stats: stars cover public repositories owned by this account; last commit and forks refer to this profile repository. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aethervn99&amp;label=Profile+views&amp;color=007ec6&amp;style=flat" alt="Profile views" height="20" />
+  <a href="https://github.com/aethervn99?tab=followers"><img src="https://img.shields.io/github/followers/aethervn99?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;color=007ec6" alt="GitHub followers" height="20" /></a>
+  <a href="https://github.com/aethervn99?tab=repositories&amp;sort=stargazers"><img src="https://img.shields.io/github/stars/aethervn99?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;color=007ec6" alt="Total stars on owned public repositories" height="20" /></a>
+  <a href="https://github.com/aethervn99/aethervn99/commits/main"><img src="https://img.shields.io/github/last-commit/aethervn99/aethervn99?style=flat&amp;label=Last+commit&amp;color=97a111" alt="Last commit to this profile repository" height="20" /></a>
+  <a href="https://github.com/aethervn99/aethervn99/forks"><img src="https://img.shields.io/github/forks/aethervn99/aethervn99?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Forks&amp;color=007ec6" alt="Forks of this profile repository" height="20" /></a>
+</p>
+
 <p align="center">
   <a href="mailto:aethervn99@gmail.com"><img src="https://img.shields.io/badge/Email-A52A22?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28" /></a>
   <a href="https://www.linkedin.com/in/th%C3%A0nh-nguy%E1%BB%85n-154021241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="28" /></a>
