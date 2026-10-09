@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg?v=20261006" alt="Aether — AI Product Engineer. Full-stack applications, AI systems and observability." width="100%" />
+  <img src="./assets/profile-banner.svg?v=20261009" alt="Aether — AI Product Engineer. Full-stack applications, AI systems and observability." width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Thành Nguyễn(Aether) 👋</h1>
